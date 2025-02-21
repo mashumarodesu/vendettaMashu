@@ -6,6 +6,10 @@
       "name": "Catppuccin"
     }
   ],
+  "background": {
+        "url": "https://i.ibb.co/67zxDgLX/Rinaijiao-Persian-Cat-079.jpg",
+        "alpha": 0.63
+    },
   "semanticColors": {
     "ANDROID_RIPPLE": [ "#6c7086", "#6c7086" ],
     "BACKGROUND_ACCENT": [ "#cba6f7", "#cba6f7" ],
