@@ -9,7 +9,7 @@
   "background": {
         "url": "https://i.ibb.co/BHFrsmRM/Untitled.png",
         "alpha": 0.90,
-        "filter": "blur(15)"
+        "filter": "blur(15px)"
     },
   "semanticColors": {
     "ANDROID_RIPPLE": [ "#6c7086", "#6c7086" ],
