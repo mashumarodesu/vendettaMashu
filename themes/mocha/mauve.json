@@ -8,7 +8,7 @@
   ],
   "background": {
         "url": "https://i.ibb.co/BHFrsmRM/Untitled.png",
-        "alpha": 0.90,
+        "alpha": 1.0,
         "filter": "blur(35px)"
     },
   "semanticColors": {
