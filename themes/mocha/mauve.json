@@ -8,8 +8,7 @@
   ],
   "background": {
         "url": "https://i.ibb.co/9HwYQryS/Untitled-2.png",
-        "blur": "0.8",
-        "alpha": "0.9"
+        "blur": "1.0"
     },
   "semanticColors": {
     "ANDROID_RIPPLE": [ "#6c7086", "#6c7086" ],
