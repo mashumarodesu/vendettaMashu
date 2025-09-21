@@ -200,6 +200,11 @@
     "CHAT_MENTIONS_FOREGROUND_DARK": "#cba6f7",
     "CHAT_MENTIONS_FOREGROUND_LIGHT": "#cba6f7"
   },
+  "background": {
+    "blur": 0.9,
+    "url": "https://github.com/mashumarodesu/vendettaMashu/blob/main/assets/128153388_p0_1.jpg?raw=true",
+    "alpha": 0.7
+  },
   "plus":{
     "version":"0",
     "customOverlays": true,
